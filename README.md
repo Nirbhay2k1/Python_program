@@ -2,8 +2,6 @@
 
 |Problems| Link to the files|
 
----|---|
-
 Problem 1|[Click here for python file](Problem1.py)|
 
 Problem 2|[Click here for python file](Problem2.py)|
